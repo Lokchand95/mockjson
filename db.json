@@ -1,31 +1,65 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+    "data": [
+	{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
+    },{
+        "id": 1,
+        "employee_name": "Tiger Nixon1",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": "Test"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	]
 }
