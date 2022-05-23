@@ -24,19 +24,6 @@
             "email": 320800,
             "phone_no": 61,
             "dateofbirth": ""
-        },{
-            "id": 4,
-            "name": "Tiger Nixon",
-            "email": 320800,
-            "phone_no": 61,
-            "dateofbirth": "22-06-1995"
-        },
-		{
-            "id": 5,
-            "name": "Tiger Nixon",
-            "email": 320800,
-            "phone_no": 61,
-            "dateofbirth": ""
         },
 		{
             "id": 6,
@@ -66,26 +53,7 @@
             "phone_no": 61,
            "dateofbirth": "22-06-1995"
         },
-		{
-            "id": 10,
-            "name": "Tiger Nixon",
-            "email": 320800,
-            "phone_no": 61,
-            "dateofbirth": "22-06-1995"
-        },{
-            "id": 11,
-            "name": "Tiger Nixon",
-            "email": 320800,
-            "phone_no": 61,
-            "dateofbirth": "22-06-1995"
-        },{
-            "id": 12,
-            "name": "Tiger Nixon",
-            "email": 320800,
-            "phone_no": 61,
-            "dateofbirth": "22-06-1995"
-        },
-		{
+	{
             "id": 13,
             "name": "Tiger Nixon",
             "email": 320800,
