@@ -1,6 +1,4 @@
-{
-    "status": "success",
-    "data": [
+ [
         {
             "id": 1,
             "name": "Tiger Nixon",
@@ -99,7 +97,5 @@
             "email": 320800,
             "phone_no": 61,
             "dateofbirth": "22-06-1995"
-        },
-    ],
-    "message": "Successfully! All records has been fetched."
-}
+        }
+    ]
